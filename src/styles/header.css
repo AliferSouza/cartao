@@ -1,0 +1,14 @@
+
+.container-header {
+    margin: auto; 
+    text-align:center; 
+    width: 200px;   
+}
+
+.h1-header{
+    font-family: "Poppins", sans-serif;
+    margin-top: -2rem;
+    font-size: 40pix;   
+}
+
+

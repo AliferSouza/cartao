@@ -1,0 +1,94 @@
+
+        
+        [
+                {       "Id": "1",
+                        "Imagem": "./public/images/burger.jpg",
+                        "Titulo": "Burger",
+                        "Descrição": "Burger muinto gostoso",
+                        "Categoria":"Lanche",    
+                        "Preço": "1.50",                               
+                        "Infocaloria": "200 Kcal",
+                        "Quantidade": "1"
+                },
+                {
+                        "Id": "2",
+                        "Imagem": "./public/images/burger.jpg",
+                        "Titulo": "Banana",
+                        "Descrição": "A banana é uma das frutas ...",
+                        "Categoria":"Lanche",    
+                        "Preço": " 2.00",                  
+                        "Infocaloria": "200 Kcal",
+                        "Quantidade": "1"
+
+                },
+                {       "Id": "3",
+                        "Imagem": "./public/images/burger.jpg",
+                        "Titulo": "Maionesa",
+                        "Descrição": "Maionesa lindo",
+                        "Categoria":"Lanche",    
+                        "Preço": "3.00",                    
+                        "Infocaloria": "200 Kcal",
+                        "Quantidade": "1"
+
+                },
+               
+     
+                {       "Id": "4",
+                        "Imagem": "./public/images/burger.jpg",
+                        "Titulo": "suco",
+                        "Descrição": "Burger muinto gostoso",
+                        "Categoria":"Bebida",    
+                        "Preço": "Preço R$:1.50",                   
+                        "Infocaloria": "200  Kcal",
+                        "Quantidade": "1"
+                },
+                {
+                        "Id": "5",
+                        "Imagem": "./public/images/burger.jpg",
+                        "Titulo": "Cerveja",
+                        "Descrição": "A banana é uma das frutas ...",
+                        "Categoria":"Bebida",  
+                        "Preço": "2.00",                  
+                        "Infocaloria": "200  Kcal",
+                        "Quantidade": "1"
+
+                },
+                {       "Id": "6",
+                        "Imagem": "./public/images/burger.jpg",
+                        "Titulo": "Suco Laranja",
+                        "Descrição": "Suco de laranja com limão",
+                        "Categoria":"Bebida",  
+                        "Preço": "3.00",                    
+                        "Infocaloria": "200 Kcal",
+                        "Quantidade": "1"
+
+                },
+                
+               
+       
+                {       "Id": "7",
+                        "Imagem": "./public/images/burger.jpg",
+                        "Titulo": "suco",
+                        "Descrição": "Burger muinto gostoso",
+                        "Categoria":"Outros",    
+                        "Preço": "1.50",                   
+                        "Infocaloria": "200  Kcal",
+                        "Quantidade": "1"
+                },
+                {
+                        "Id": "8",
+                        "Imagem": "./public/images/burger.jpg",
+                        "Titulo": "Cerveja",
+                        "Descrição": "A banana é uma das frutas ...",
+                        "Categoria":"Outros",  
+                        "Preço": "2.00",                  
+                        "Infocaloria": "200  Kcal",
+                        "Quantidade": "1"
+
+                }
+               
+                
+               
+        ]
+         
+       
